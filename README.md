@@ -2,6 +2,8 @@
 This project was developed to fulfill the Fall 2018-19 final term examination requirements of Object Oriented Programming Java at American International University Bangladesh.
 The main objective of the project is to develop a platform for students to book consultation time according to TSF (Consultation Schedule), also for teachers to better manage the consultations.
 
+Technologies Used: Java, Swing UI, MySQL
+
 # Features: Student
 
 Login and Registration (Registration is only available for Students, Teacher's data are manually stored on MySQL database, Login page is same for both Lecturers and students. They will be taken to different dashboards according to their credentials stored on Database
